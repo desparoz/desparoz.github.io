@@ -1,0 +1,64 @@
+# - name: "[TITLE]"
+# - description: ""
+# - credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+
+aboutPage: true
+
+# - markdown: redcarpet
+highlighter: pygments
+
+# - paginate: 20
+# - base# - url: "[PATH]/"
+domain_# - name: "http://[HOSTNAME]"
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_short# - name: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+# - url: "http://[HOSTNAME]"
+# - author: "[TITLE]"
+# - user# - name: "[USERNAME]"
+# - gravatar_hash: "[GRAVATAR_HASH]"
+
+## - permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+title: "Des Paroz"
+tagline: ""
+description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+baseurl: ""
+url: "http://desparoz.micro.blog"
+markdown: "kramdown"
+username: "desparoz"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Des Paroz"
+name: "Des Paroz"
+gravatar_hash: "ff81688107f77a63a34f68e536aeca77"
+avatar: "http://www.gravatar.com/avatar/ff81688107f77a63a34f68e536aeca77?s=160"
+full_name: "Des Paroz"
+bio: ""
+twitter_username: "desparoz"
+github_username: "desparoz"
+paginate: 20
+paginate_path: "/page/:num/"
