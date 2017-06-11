@@ -1,11 +1,11 @@
 # - name: "[TITLE]"
-# - description: "A mirror of my micro.posts"
+# - description: ""
 # - credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
 
 aboutPage: true
 
 # - markdown: redcarpet
-highlighter: rouge
+highlighter: pygments
 
 # - paginate: 20
 # - base# - url: "[PATH]/"
@@ -43,7 +43,7 @@ defaults:
             layout: post
 
 title: "Des Paroz"
-tagline: "A mirror of my micro.posts"
+tagline: ""
 description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
 credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
 baseurl: ""
