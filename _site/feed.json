@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/06/12/the-ipad-pro.html",
+			"content_html": "<p>🔗 The 10.5” iPad Pro: Future-Proof — <a href=\"https://www.macstories.net/stories/the-10-5-ipad-pro-future-proof/\">www.macstories.net/stories/t…</a></p>\n",
+			"date_published": "2017-06-12T12:27:00+00:00",
+			"url": "http://desparoz.micro.blog/2017/06/12/the-ipad-pro.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/06/11/types-of-annoying.html",
 			"content_html": "<p>🔗 8 types of annoying ads — <a href=\"https://marketoonist.com/2017/06/annoying-ads.html\">marketoonist.com/2017/06/a…</a></p>\n",
 			"date_published": "2017-06-11T20:24:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 Coming to iOS 11: Dropbox support in the new Files app — <a href=\"https://blogs.dropbox.com/dropbox/2017/06/ios-11-files-app-integration/\">blogs.dropbox.com/dropbox/2…</a></p>\n",
 			"date_published": "2017-06-05T19:26:00+00:00",
 			"url": "http://desparoz.micro.blog/2017/06/05/coming-to-ios.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/04/predictions-for-wwdc.html",
-			"content_html": "<p>🔗 10 predictions for WWDC 2017 — <a href=\"https://birchtree.me/blog/10-predictions-for-wwdc-2017/\">birchtree.me/blog/10-p…</a></p>\n",
-			"date_published": "2017-06-04T12:34:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/04/predictions-for-wwdc.html"
 		}
 		
 	]
