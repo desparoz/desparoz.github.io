@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/06/20/step-away-from.html",
+			"content_html": "<p>🔗 Step away from knee jerk fantasies — <a href=\"https://johntitchen.wordpress.com/2017/06/19/step-away-from-knee-jerk-fantasies/\">johntitchen.wordpress.com/2017/06/1…</a></p>\n",
+			"date_published": "2017-06-20T08:57:00+00:00",
+			"url": "http://desparoz.micro.blog/2017/06/20/step-away-from.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/06/20/what-to-post.html",
 			"content_html": "<p>🔗 What to post to a microblog — <a href=\"http://www.manton.org/2017/06/what-to-post-to-a-microblog.html\">www.manton.org/2017/06/w…</a></p>\n",
 			"date_published": "2017-06-20T08:52:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 Six things every consumer should know about the ‘Internet of Things’ — <a href=\"http://theconversation.com/six-things-every-consumer-should-know-about-the-internet-of-things-78765\">theconversation.com/six-thing…</a></p>\n",
 			"date_published": "2017-06-07T22:12:00+00:00",
 			"url": "http://desparoz.micro.blog/2017/06/07/six-things-every.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/06/this-app-looks.html",
-			"content_html": "<p>This app looks exceptionally cool.</p>\n\n<p>🔗 Affinity Photo Comes to iPad: The First Full-Powered Photo Editor on a Tablet — <a href=\"https://petapixel.com/2017/06/05/affinity-photo-comes-ipad-first-full-powered-photo-editor-tablet/\">petapixel.com/2017/06/0…</a></p>\n",
-			"date_published": "2017-06-06T11:52:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/06/this-app-looks.html"
 		}
 		
 	]
