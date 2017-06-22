@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/06/22/openness-rivers-the.html",
+			"content_html": "<p>🔗 Openness, rivers, the IndieWeb community — <a href=\"https://richardmacmanus.com/2017/06/22/openness-rivers-indieweb/\">richardmacmanus.com/2017/06/2…</a></p>\n",
+			"date_published": "2017-06-22T11:55:00+00:00",
+			"url": "http://desparoz.micro.blog/2017/06/22/openness-rivers-the.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/06/21/awesome-on-fronts.html",
 			"content_html": "<p>Awesome on 2 fronts: iOS app going universal and micro.blog public launch approaching…</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>🔗 Micro.blog iOS going universal</td>\n      <td>Manton Reece — <a href=\"http://www.manton.org/2017/06/micro-blog-ios-going-universal.html\">www.manton.org/2017/06/m…</a></td>\n    </tr>\n  </tbody>\n</table>\n",
 			"date_published": "2017-06-21T19:03:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 The Physics of Productivity: Newton’s Laws of Getting Stuff Done — <a href=\"http://jamesclear.com/physics-productivity\">jamesclear.com/physics-p…</a></p>\n",
 			"date_published": "2017-06-10T20:51:00+00:00",
 			"url": "http://desparoz.micro.blog/2017/06/10/the-physics-of.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/09/apples-upgrades-to.html",
-			"content_html": "<p>🔗 Apple’s Upgrades to Location and Photo Privacy Features Are Pretty Great — <a href=\"http://gizmodo.com/apple-is-upgrading-location-and-photo-privacy-features-1795907968?IR=T\">gizmodo.com/apple-is-…</a></p>\n",
-			"date_published": "2017-06-09T12:29:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/09/apples-upgrades-to.html"
 		}
 		
 	]
