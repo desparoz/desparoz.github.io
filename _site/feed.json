@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/06/22/privacy-mythbusting-nobody.html",
+			"content_html": "<p>🔗 Privacy Mythbusting #1: Nobody else cares about privacy! (Umm, yes they do.) — <a href=\"https://spreadprivacy.com/who-cares-about-privacy-1606f4068a98?source=ifttt--------------2&amp;gi=64eb7b0e4426\">spreadprivacy.com/who-cares…</a></p>\n",
+			"date_published": "2017-06-22T12:21:00+00:00",
+			"url": "http://desparoz.micro.blog/2017/06/22/privacy-mythbusting-nobody.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/06/22/openness-rivers-the.html",
 			"content_html": "<p>🔗 Openness, rivers, the IndieWeb community — <a href=\"https://richardmacmanus.com/2017/06/22/openness-rivers-indieweb/\">richardmacmanus.com/2017/06/2…</a></p>\n",
 			"date_published": "2017-06-22T11:55:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 How a TV Sitcom Triggered the Downfall of Western Civilization — <a href=\"https://medium.com/@thatdavidhopkins/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0\">medium.com/@thatdavi…</a></p>\n",
 			"date_published": "2017-06-10T21:03:00+00:00",
 			"url": "http://desparoz.micro.blog/2017/06/10/how-a-tv.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/10/the-physics-of.html",
-			"content_html": "<p>🔗 The Physics of Productivity: Newton’s Laws of Getting Stuff Done — <a href=\"http://jamesclear.com/physics-productivity\">jamesclear.com/physics-p…</a></p>\n",
-			"date_published": "2017-06-10T20:51:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/10/the-physics-of.html"
 		}
 		
 	]
