@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-06-06 11:52
+date: 2017-06-06 21:52 +1000
+guid: http://desparoz.micro.blog/2017/06/06/this-app-looks.html
 ---
 This app looks exceptionally cool.
 
