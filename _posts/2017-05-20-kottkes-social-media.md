@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-20 21:57
+date: 2017-05-21 07:57 +1000
+guid: http://desparoz.micro.blog/2017/05/20/kottkes-social-media.html
 ---
 🔗 Kottke’s social media fast — [baty.blog/2017/kott...](https://baty.blog/2017/kottkes-social-media-fast/)
 
