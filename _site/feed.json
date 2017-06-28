@@ -1,78 +1,78 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Des Paroz",
-	"home_page_url": "http://desparoz.micro.blog/",
-	"feed_url": "http://desparoz.micro.blog/feed.json",
+	"home_page_url": "http://desparoz.me/",
+	"feed_url": "http://desparoz.me/feed.json",
 	"items": [
+		
+		{
+			"id": "http://desparoz.micro.blog/2017/06/28/marsedit-and-microblogs.html",
+			"content_html": "<p>🔗 MarsEdit 4 and microblogs — <a href=\"http://www.manton.org/2017/06/marsedit-4-and-microblogs.html\">www.manton.org/2017/06/m…</a></p>\n",
+			"date_published": "2017-06-29T09:12:00+10:00",
+			"url": "http://desparoz.me/2017/06/29/marsedit-and-microblogs.html"
+		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/22/one-week-with.html",
 			"content_html": "<p>🔗 One Week with the New iPad Pro — <a href=\"https://apple.news/A_TkC5KXAM5-W-PBIu7mW0A\">apple.news/A_TkC5KXA…</a></p>\n",
-			"date_published": "2017-06-22T19:36:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/22/one-week-with.html"
+			"date_published": "2017-06-23T05:36:00+10:00",
+			"url": "http://desparoz.me/2017/06/23/one-week-with.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/22/privacy-mythbusting-nobody.html",
 			"content_html": "<p>🔗 Privacy Mythbusting #1: Nobody else cares about privacy! (Umm, yes they do.) — <a href=\"https://spreadprivacy.com/who-cares-about-privacy-1606f4068a98?source=ifttt--------------2&amp;gi=64eb7b0e4426\">spreadprivacy.com/who-cares…</a></p>\n",
-			"date_published": "2017-06-22T12:21:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/22/privacy-mythbusting-nobody.html"
+			"date_published": "2017-06-22T22:21:00+10:00",
+			"url": "http://desparoz.me/2017/06/22/privacy-mythbusting-nobody.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/22/openness-rivers-the.html",
 			"content_html": "<p>🔗 Openness, rivers, the IndieWeb community — <a href=\"https://richardmacmanus.com/2017/06/22/openness-rivers-indieweb/\">richardmacmanus.com/2017/06/2…</a></p>\n",
-			"date_published": "2017-06-22T11:55:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/22/openness-rivers-the.html"
+			"date_published": "2017-06-22T21:55:00+10:00",
+			"url": "http://desparoz.me/2017/06/22/openness-rivers-the.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/21/awesome-on-fronts.html",
 			"content_html": "<p>Awesome on 2 fronts: iOS app going universal and micro.blog public launch approaching…</p>\n\n<table>\n  <tbody>\n    <tr>\n      <td>🔗 Micro.blog iOS going universal</td>\n      <td>Manton Reece — <a href=\"http://www.manton.org/2017/06/micro-blog-ios-going-universal.html\">www.manton.org/2017/06/m…</a></td>\n    </tr>\n  </tbody>\n</table>\n",
-			"date_published": "2017-06-21T19:03:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/21/awesome-on-fronts.html"
+			"date_published": "2017-06-22T05:03:00+10:00",
+			"url": "http://desparoz.me/2017/06/22/awesome-on-fronts.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/21/thinking-out-loud.html",
 			"content_html": "<p>🔗 Thinking out loud about the Apple Watch — <a href=\"http://www.practicallyefficient.com/2017/06/20/watch-thinking.html\">www.practicallyefficient.com/2017/06/2…</a></p>\n",
-			"date_published": "2017-06-21T04:43:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/21/thinking-out-loud.html"
+			"date_published": "2017-06-21T14:43:00+10:00",
+			"url": "http://desparoz.me/2017/06/21/thinking-out-loud.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/20/step-away-from.html",
 			"content_html": "<p>🔗 Step away from knee jerk fantasies — <a href=\"https://johntitchen.wordpress.com/2017/06/19/step-away-from-knee-jerk-fantasies/\">johntitchen.wordpress.com/2017/06/1…</a></p>\n",
-			"date_published": "2017-06-20T08:57:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/20/step-away-from.html"
+			"date_published": "2017-06-20T18:57:00+10:00",
+			"url": "http://desparoz.me/2017/06/20/step-away-from.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/20/what-to-post.html",
 			"content_html": "<p>🔗 What to post to a microblog — <a href=\"http://www.manton.org/2017/06/what-to-post-to-a-microblog.html\">www.manton.org/2017/06/w…</a></p>\n",
-			"date_published": "2017-06-20T08:52:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/20/what-to-post.html"
+			"date_published": "2017-06-20T18:52:00+10:00",
+			"url": "http://desparoz.me/2017/06/20/what-to-post.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/16/reasons-landscape-photographers.html",
 			"content_html": "<p>🔗 5 Reasons Landscape Photographers Have A Screw Loose — <a href=\"https://www.scottdavenportphoto.com/blog/5-reasons-landscape-photographers-have-a-screw-loose\">www.scottdavenportphoto.com/blog/5-re…</a></p>\n",
-			"date_published": "2017-06-16T19:49:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/16/reasons-landscape-photographers.html"
+			"date_published": "2017-06-17T05:49:00+10:00",
+			"url": "http://desparoz.me/2017/06/17/reasons-landscape-photographers.html"
 		},
 		
 		{
 			"id": "http://desparoz.micro.blog/2017/06/12/the-ipad-pro.html",
 			"content_html": "<p>🔗 The 10.5” iPad Pro: Future-Proof — <a href=\"https://www.macstories.net/stories/the-10-5-ipad-pro-future-proof/\">www.macstories.net/stories/t…</a></p>\n",
-			"date_published": "2017-06-12T12:27:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/12/the-ipad-pro.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/11/types-of-annoying.html",
-			"content_html": "<p>🔗 8 types of annoying ads — <a href=\"https://marketoonist.com/2017/06/annoying-ads.html\">marketoonist.com/2017/06/a…</a></p>\n",
-			"date_published": "2017-06-11T20:24:00+00:00",
-			"url": "http://desparoz.micro.blog/2017/06/11/types-of-annoying.html"
+			"date_published": "2017-06-12T22:27:00+10:00",
+			"url": "http://desparoz.me/2017/06/12/the-ipad-pro.html"
 		}
 		
 	]
