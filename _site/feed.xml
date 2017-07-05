@@ -4,8 +4,24 @@
     <title>Des Paroz</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://desparoz.me/</link>
-    <pubDate>Thu, 29 Jun 2017 09:12:35 +1000</pubDate>
-    <lastBuildDate>Thu, 29 Jun 2017 09:12:35 +1000</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2017 23:07:15 +1000</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2017 23:07:15 +1000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;🔗 Privacy Mythbusting #3: Anonymized data is safe, right? (Er, no.) — &lt;a href=&quot;https://spreadprivacy.com/dataanonymization-e1e2b3105f3c&quot;&gt;spreadprivacy.com/dataanony…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Jul 2017 23:07:00 +1000</pubDate>
+        <link>http://desparoz.me/2017/07/05/privacy-mythbusting-anonymized.html</link>
+        <guid isPermaLink="true">http://desparoz.micro.blog/2017/07/05/privacy-mythbusting-anonymized.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;🔗 Apple’s Cryptocurrency Announced at WWDC — &lt;a href=&quot;https://medium.com/the-mission/apples-cryptocurrency-announced-at-wwdc-e6f78144f1f5&quot;&gt;medium.com/the-missi…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 18:30:00 +1000</pubDate>
+        <link>http://desparoz.me/2017/07/04/apples-cryptocurrency-announced.html</link>
+        <guid isPermaLink="true">http://desparoz.micro.blog/2017/07/04/apples-cryptocurrency-announced.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;🔗 MarsEdit 4 and microblogs — &lt;a href=&quot;http://www.manton.org/2017/06/marsedit-4-and-microblogs.html&quot;&gt;www.manton.org/2017/06/m…&lt;/a&gt;&lt;/p&gt;
@@ -410,22 +426,6 @@
         <pubDate>Tue, 16 May 2017 07:04:00 +1000</pubDate>
         <link>http://desparoz.me/2017/05/16/having-moved-back.html</link>
         <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/15/having-moved-back.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;🔗 Some thoughts on Keybase, online security, and verification of identity — &lt;a href=&quot;http://dougbelshaw.com/blog/2017/05/12/keybase-security/&quot;&gt;dougbelshaw.com/blog/2017…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 May 2017 05:50:00 +1000</pubDate>
-        <link>http://desparoz.me/2017/05/14/some-thoughts-on.html</link>
-        <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/13/some-thoughts-on.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;Updated to the second beta version of the TodayPoster Today widget for macOS by @luby. Some nice enhancements, including character count.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 13 May 2017 18:49:00 +1000</pubDate>
-        <link>http://desparoz.me/2017/05/13/updated-to-the.html</link>
-        <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/13/updated-to-the.html</guid>
       </item>
     
   </channel>
