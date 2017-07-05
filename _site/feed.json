@@ -6,6 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/05/privacy-mythbusting-anonymized.html",
+			"content_html": "<p>🔗 Privacy Mythbusting #3: Anonymized data is safe, right? (Er, no.) — <a href=\"https://spreadprivacy.com/dataanonymization-e1e2b3105f3c\">spreadprivacy.com/dataanony…</a></p>\n",
+			"date_published": "2017-07-05T23:07:00+10:00",
+			"url": "http://desparoz.me/2017/07/05/privacy-mythbusting-anonymized.html"
+		},
+		
+		{
+			"id": "http://desparoz.micro.blog/2017/07/04/apples-cryptocurrency-announced.html",
+			"content_html": "<p>🔗 Apple’s Cryptocurrency Announced at WWDC — <a href=\"https://medium.com/the-mission/apples-cryptocurrency-announced-at-wwdc-e6f78144f1f5\">medium.com/the-missi…</a></p>\n",
+			"date_published": "2017-07-04T18:30:00+10:00",
+			"url": "http://desparoz.me/2017/07/04/apples-cryptocurrency-announced.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/06/28/marsedit-and-microblogs.html",
 			"content_html": "<p>🔗 MarsEdit 4 and microblogs — <a href=\"http://www.manton.org/2017/06/marsedit-4-and-microblogs.html\">www.manton.org/2017/06/m…</a></p>\n",
 			"date_published": "2017-06-29T09:12:00+10:00",
@@ -59,20 +73,6 @@
 			"content_html": "<p>🔗 What to post to a microblog — <a href=\"http://www.manton.org/2017/06/what-to-post-to-a-microblog.html\">www.manton.org/2017/06/w…</a></p>\n",
 			"date_published": "2017-06-20T18:52:00+10:00",
 			"url": "http://desparoz.me/2017/06/20/what-to-post.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/16/reasons-landscape-photographers.html",
-			"content_html": "<p>🔗 5 Reasons Landscape Photographers Have A Screw Loose — <a href=\"https://www.scottdavenportphoto.com/blog/5-reasons-landscape-photographers-have-a-screw-loose\">www.scottdavenportphoto.com/blog/5-re…</a></p>\n",
-			"date_published": "2017-06-17T05:49:00+10:00",
-			"url": "http://desparoz.me/2017/06/17/reasons-landscape-photographers.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/12/the-ipad-pro.html",
-			"content_html": "<p>🔗 The 10.5” iPad Pro: Future-Proof — <a href=\"https://www.macstories.net/stories/the-10-5-ipad-pro-future-proof/\">www.macstories.net/stories/t…</a></p>\n",
-			"date_published": "2017-06-12T22:27:00+10:00",
-			"url": "http://desparoz.me/2017/06/12/the-ipad-pro.html"
 		}
 		
 	]
