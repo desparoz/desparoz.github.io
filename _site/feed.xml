@@ -4,8 +4,16 @@
     <title>Des Paroz</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://desparoz.me/</link>
-    <pubDate>Wed, 05 Jul 2017 23:07:15 +1000</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2017 23:07:15 +1000</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2017 21:11:54 +1000</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2017 21:11:54 +1000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;I’ve managed to break my blog. Will probably be able to fix it tomorrow sometime!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Jul 2017 21:11:00 +1000</pubDate>
+        <link>http://desparoz.me/2017/07/06/ive-managed-to.html</link>
+        <guid isPermaLink="true">http://desparoz.micro.blog/2017/07/06/ive-managed-to.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;🔗 Privacy Mythbusting #3: Anonymized data is safe, right? (Er, no.) — &lt;a href=&quot;https://spreadprivacy.com/dataanonymization-e1e2b3105f3c&quot;&gt;spreadprivacy.com/dataanony…&lt;/a&gt;&lt;/p&gt;
@@ -418,14 +426,6 @@
         <pubDate>Wed, 17 May 2017 12:21:00 +1000</pubDate>
         <link>http://desparoz.me/2017/05/17/i-ready-like.html</link>
         <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/17/i-ready-like.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;Having moved back from Darwin to Sydney I’ve really come to appreciate how good the coffee is in Sydney, and how expensive it is in Darwin&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 May 2017 07:04:00 +1000</pubDate>
-        <link>http://desparoz.me/2017/05/16/having-moved-back.html</link>
-        <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/15/having-moved-back.html</guid>
       </item>
     
   </channel>
