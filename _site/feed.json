@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/09/just-assembled-a.html",
+			"content_html": "<p>Just assembled a standing desk. Looking forward to being able to do some serious work standing up!</p>\n",
+			"date_published": "2017-07-09T21:15:00+10:00",
+			"url": "http://desparoz.me/2017/07/09/just-assembled-a.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/07/09/enjoying-the-backpacking.html",
 			"content_html": "<p>Enjoying the Backpacking with Camera Gear series of posts by @dancarrphoto</p>\n\n<p>🔗 Backpacking with Camera Gear - Weight Considerations — <a href=\"http://dancarrphotography.com/blog/2017/07/04/backpacking-with-camera-gear-weight-considerations/\">dancarrphotography.com/blog/2017…</a></p>\n",
 			"date_published": "2017-07-09T15:49:00+10:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 Apple’s Cryptocurrency Announced at WWDC — <a href=\"https://medium.com/the-mission/apples-cryptocurrency-announced-at-wwdc-e6f78144f1f5\">medium.com/the-missi…</a></p>\n",
 			"date_published": "2017-07-04T18:30:00+10:00",
 			"url": "http://desparoz.me/2017/07/04/apples-cryptocurrency-announced.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/06/28/marsedit-and-microblogs.html",
-			"content_html": "<p>🔗 MarsEdit 4 and microblogs — <a href=\"http://www.manton.org/2017/06/marsedit-4-and-microblogs.html\">www.manton.org/2017/06/m…</a></p>\n",
-			"date_published": "2017-06-29T09:12:00+10:00",
-			"url": "http://desparoz.me/2017/06/29/marsedit-and-microblogs.html"
 		}
 		
 	]
