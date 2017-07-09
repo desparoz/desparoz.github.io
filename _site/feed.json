@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/09/so-my-mainblog.html",
+			"content_html": "<p>So my mainblog at <a href=\"http://desparoz.com\">desparoz.com</a> is still offline.</p>\n\n<p>Glad to have my <a href=\"http://micro.blog\">micro.blog</a> still online at www.desparoz.me.</p>\n",
+			"date_published": "2017-07-09T21:34:00+10:00",
+			"url": "http://desparoz.me/2017/07/09/so-my-mainblog.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/07/09/just-assembled-a.html",
 			"content_html": "<p>Just assembled a standing desk. Looking forward to being able to do some serious work standing up!</p>\n",
 			"date_published": "2017-07-09T21:15:00+10:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 Privacy Mythbusting #3: Anonymized data is safe, right? (Er, no.) — <a href=\"https://spreadprivacy.com/dataanonymization-e1e2b3105f3c\">spreadprivacy.com/dataanony…</a></p>\n",
 			"date_published": "2017-07-05T23:07:00+10:00",
 			"url": "http://desparoz.me/2017/07/05/privacy-mythbusting-anonymized.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/07/04/apples-cryptocurrency-announced.html",
-			"content_html": "<p>🔗 Apple’s Cryptocurrency Announced at WWDC — <a href=\"https://medium.com/the-mission/apples-cryptocurrency-announced-at-wwdc-e6f78144f1f5\">medium.com/the-missi…</a></p>\n",
-			"date_published": "2017-07-04T18:30:00+10:00",
-			"url": "http://desparoz.me/2017/07/04/apples-cryptocurrency-announced.html"
 		}
 		
 	]
