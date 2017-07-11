@@ -4,8 +4,16 @@
     <title>Des Paroz</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://desparoz.me/</link>
-    <pubDate>Sun, 09 Jul 2017 21:34:10 +1000</pubDate>
-    <lastBuildDate>Sun, 09 Jul 2017 21:34:10 +1000</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2017 20:23:47 +1000</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2017 20:23:47 +1000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;My main blog at &lt;a href=&quot;http://desparoz.com&quot;&gt;desparoz.com&lt;/a&gt; is back online.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Jul 2017 20:23:00 +1000</pubDate>
+        <link>http://desparoz.me/2017/07/11/my-main-blog.html</link>
+        <guid isPermaLink="true">http://desparoz.micro.blog/2017/07/11/my-main-blog.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;So my mainblog at &lt;a href=&quot;http://desparoz.com&quot;&gt;desparoz.com&lt;/a&gt; is still offline.&lt;/p&gt;
@@ -416,16 +424,6 @@
         <pubDate>Tue, 23 May 2017 05:51:00 +1000</pubDate>
         <link>http://desparoz.me/2017/05/23/things-you-should.html</link>
         <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/22/things-you-should.html</guid>
-      </item>
-    
-      <item>
-        <description>&lt;p&gt;An excellent overview of micro.blog by @noah.&lt;/p&gt;
-
-&lt;p&gt;🔗 Intro to Micro.blog — &lt;a href=&quot;https://noahread.net/blog/intro-to-micro-blog&quot;&gt;noahread.net/blog/intr…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 May 2017 05:38:00 +1000</pubDate>
-        <link>http://desparoz.me/2017/05/22/an-excellent-overview.html</link>
-        <guid isPermaLink="true">http://desparoz.micro.blog/2017/05/21/an-excellent-overview.html</guid>
       </item>
     
   </channel>
