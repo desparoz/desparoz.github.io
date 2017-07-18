@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/18/why-things-cost.html",
+			"content_html": "<p>🔗 Why things cost what they cost… — <a href=\"http://dannylenihan.tumblr.com/post/163049253960/why-things-cost-what-they-cost\">dannylenihan.tumblr.com/post/1630…</a></p>\n",
+			"date_published": "2017-07-18T18:24:00+10:00",
+			"url": "http://desparoz.me/2017/07/18/why-things-cost.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/07/16/i-have-a.html",
 			"content_html": "<p>I have a late 2012 model of the 27” iMac — the first of the new thin designs (but before retina).</p>\n\n<p>With our new standing desk would love to raise it up further, but with no Vesa mount built in I am wondering if the micro.brains trust can share some ideas…</p>\n",
 			"date_published": "2017-07-16T17:08:00+10:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>So my mainblog at <a href=\"http://desparoz.com\">desparoz.com</a> is still offline.</p>\n\n<p>Glad to have my <a href=\"http://micro.blog\">micro.blog</a> still online at www.desparoz.me.</p>\n",
 			"date_published": "2017-07-09T21:34:00+10:00",
 			"url": "http://desparoz.me/2017/07/09/so-my-mainblog.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/07/09/just-assembled-a.html",
-			"content_html": "<p>Just assembled a standing desk. Looking forward to being able to do some serious work standing up!</p>\n",
-			"date_published": "2017-07-09T21:15:00+10:00",
-			"url": "http://desparoz.me/2017/07/09/just-assembled-a.html"
 		}
 		
 	]
