@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/19/thousands-agree-to.html",
+			"content_html": "<p>🔗 Thousands agree to clean toilets for Wi-Fi because they didn’t read the terms — <a href=\"http://www.smh.com.au/technology/technology-news/thousands-agree-to-clean-toilets-for-wifi-because-they-didnt-read-the-terms-20170717-gxd7z3.html\">www.smh.com.au/technolog…</a></p>\n",
+			"date_published": "2017-07-19T15:50:00+10:00",
+			"url": "http://desparoz.me/2017/07/19/thousands-agree-to.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/07/18/blackbeards-ship-confirmed.html",
 			"content_html": "<p>🔗 Blackbeard’s Ship Confirmed off North Carolina — <a href=\"http://news.nationalgeographic.com/news/2011/08/110829-blackbeard-shipwreck-pirates-archaeology-science/\">news.nationalgeographic.com/news/2011…</a> (via @BooksbyEric)</p>\n",
 			"date_published": "2017-07-18T18:32:00+10:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>I answered 9 of 10 questions correctly on the @pewresearch Cybersecurity Quiz <a href=\"http://pewrsr.ch/2nK1X8c\">pewrsr.ch/2nK1X8c</a></p>\n",
 			"date_published": "2017-07-11T22:02:00+10:00",
 			"url": "http://desparoz.me/2017/07/11/i-answered-of.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/07/11/my-main-blog.html",
-			"content_html": "<p>My main blog at <a href=\"http://desparoz.com\">desparoz.com</a> is back online.</p>\n",
-			"date_published": "2017-07-11T20:23:00+10:00",
-			"url": "http://desparoz.me/2017/07/11/my-main-blog.html"
 		}
 		
 	]
