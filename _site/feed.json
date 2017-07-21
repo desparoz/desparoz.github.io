@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/21/people-are-really.html",
+			"content_html": "<p>🔗 People Are Really Bad at Spotting Fake Photos, Study Finds — <a href=\"https://petapixel.com/2017/07/20/people-really-bad-spotting-fake-photos-study-finds/\">petapixel.com/2017/07/2…</a></p>\n",
+			"date_published": "2017-07-21T22:08:00+10:00",
+			"url": "http://desparoz.me/2017/07/21/people-are-really.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/07/20/posting-to-blot.html",
 			"content_html": "<p>🔗 Posting to Blot using Ulysses - Jack Baty — <a href=\"http://www.baty.blog/2017/posting-to-blot-using-ulysses\">www.baty.blog/2017/post…</a></p>\n",
 			"date_published": "2017-07-20T22:37:00+10:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Love today’s <a href=\"http://dilbert.com/strip/2017-07-14?utm_source=dilbert.com/newsletter&amp;utm_medium=email&amp;utm_campaign=brand-loyalty&amp;utm_content=strip-image\">Dilbert</a> comic:</p>\n",
 			"date_published": "2017-07-14T20:32:00+10:00",
 			"url": "http://desparoz.me/2017/07/14/103220.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/07/12/imagination-and-touchid.html",
-			"content_html": "<p>🔗 Imagination and TouchID Replacements — <a href=\"http://www.macdrifter.com/2017/07/imagination-and-touchid-replacements.html\">www.macdrifter.com/2017/07/i…</a></p>\n",
-			"date_published": "2017-07-12T21:32:00+10:00",
-			"url": "http://desparoz.me/2017/07/12/imagination-and-touchid.html"
 		}
 		
 	]
