@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://desparoz.micro.blog/2017/07/23/my-friend-and.html",
+			"content_html": "<p>My friend and diving author Eric Douglas is now on micro.blog at @diveauthor.</p>\n\n<p>If you’re into scuba diving at all, and interested in diving safety and/or fiction about diving adventures, give Eric a follow.</p>\n",
+			"date_published": "2017-07-23T21:52:00+10:00",
+			"url": "http://desparoz.me/2017/07/23/my-friend-and.html"
+		},
+		
+		{
 			"id": "http://desparoz.micro.blog/2017/07/23/its-kind-of.html",
 			"content_html": "<p>Its kind of a weird day when you have (separate) conversations about green women (Star Trek characters) and being exiled to Elba, and both of those things come up later in a single (old) episode of BBT</p>\n",
 			"date_published": "2017-07-23T19:37:00+10:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>🔗 The Hardest Part of Landscape Photography — <a href=\"http://thomasheaton.co.uk/hardest-part-landscape-photography/\">thomasheaton.co.uk/hardest-p…</a></p>\n",
 			"date_published": "2017-07-16T07:20:00+10:00",
 			"url": "http://desparoz.me/2017/07/16/the-hardest-part.html"
-		},
-		
-		{
-			"id": "http://desparoz.micro.blog/2017/07/14/who-knew-photography.html",
-			"content_html": "<p>Who knew? 🔗 Photography : A Deadly Undertaking — <a href=\"https://www.ucphoto.me/b/photography-deadly-undertaking/\">www.ucphoto.me/b/photogr…</a></p>\n",
-			"date_published": "2017-07-14T22:41:00+10:00",
-			"url": "http://desparoz.me/2017/07/14/who-knew-photography.html"
 		}
 		
 	]
