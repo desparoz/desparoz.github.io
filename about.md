@@ -1,8 +1,11 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: about/
+profile: true
+layout: default
+css_class: home
 ---
+
 Photography and technology enthusiast.
 
 Scuba diver. Free diver.
