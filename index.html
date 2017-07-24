@@ -1,37 +1,18 @@
 ---
 layout: default
+css_class: home
 ---
-<header class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s microblog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
-  </nav>
-</header>
-<div class="content list h-feed">
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% else %}
-{% for post in paginator.posts %}
-  <div class="list-item h-entry">
-    <div class="content post e-content">
-      {{ post.content }}
-    </div>
-    <div class="list-post-date">
-      <a href="{{ site.baseurl }}{{ post.url }}" class="u-url"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></a>
-    </div>
-  </div>
-{% endfor %}
-{% endif %}
-</div>
+<section class="posts h-feed">
+  {% for p in paginator.posts %}
+    <article class="post h-entry">
+      <div class="e-content">{{ p.content }}</div>
+      <footer class="post__footer">
+        <small><time class="dt-published" datetime="{{ p.date | date_to_xmlschema }}"><a href="{{ p.url }}" title="Permalink to Microblog post" class="u-url">{{ p.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></a></small>
+      </footer>
+    </article>
+  {% endfor %}
+</section>
 
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
 {% endif %}
-
-<footer class="site-footer">
-	<p class="text">{{ site.description }}</p>
-</footer>
