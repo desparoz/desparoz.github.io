@@ -1,12 +1,16 @@
 ---
 layout: default
-css_class: single
 ---
-<article class="post--single h-entry">
+<header class="masthead">
+  <h1 class="masthead-title--small">
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+  </h1>
+</header>
+<div class="content post h-entry">
+  <div class="post-date">
+    <time class="dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+  </div>
   <div class="e-content">
   {{ content }}
   </div>
-  <footer class="post__footer">
-    <small><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></small>
-  </footer>
-</article>
+</div>
