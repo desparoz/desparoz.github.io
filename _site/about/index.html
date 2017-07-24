@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
+  <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>About</title>
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="stylesheet" href="/custom.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/stylesheets/global.css" />
+  <link rel="stylesheet" href="/custom.css" />
 
   <link rel="alternate" type="application/rss+xml" title="Des Paroz" href="http://desparoz.me/feed.xml" />
   <link rel="alternate" type="application/json" title="Des Paroz" href="http://desparoz.me/feed.json" />
@@ -25,23 +27,35 @@
   <link rel="micropub" href="https://micro.blog/micropub" />
   <link rel="webmention" href="https://micro.blog/webmention" />
 </head>
-<body>
-  <div class="container">
-    <header class="masthead">
-  <h1 class="masthead-title--small">
-    <a href="/">Des Paroz</a>
-  </h1>
+
+
+  <body class="home">
+
+    
+      <header class="header" role="banner">
+  <figure class="avatar">
+    <img src="https://www.gravatar.com/avatar/ff81688107f77a63a34f68e536aeca77?s=160" alt="Des Paroz">
+  </figure>
+  <h1 class="site__name">Des Paroz</h1>
+  <h2 class="site__bio"><a href="/about/">About</a></h2>
+<!--  <a href="#" class="button button--primary">Subscribe</a> -->
 </header>
-<div class="content page">
-  <h1 class="page-title">About</h1>
-  <p>Photography and technology enthusiast.</p>
+
+    
+
+    <main class="main__content" role="main">
+      <p>Photography and technology enthusiast.</p>
 
 <p>Scuba diver. Free diver.</p>
 
 <p>Views are my own.</p>
 
-</div>
+    </main>
 
-  </div>
-</body>
+    <footer class="footer " role="contentinfo">
+  <small class="copyright">&copy; 2017 <a href="http://desparoz.me">Des Paroz</a>. Powered by <a href="http://micro.blog/">Micro.blog</a>.</small>
+</footer>
+
+
+  </body>
 </html>
