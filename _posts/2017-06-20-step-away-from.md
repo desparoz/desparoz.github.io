@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-20 18:57 +1000
 guid: http://desparoz.micro.blog/2017/06/20/step-away-from.html
 ---
