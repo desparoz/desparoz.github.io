@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-04 06:26 +1000
 guid: http://desparoz.micro.blog/2017/05/03/new-google-docs.html
 ---
