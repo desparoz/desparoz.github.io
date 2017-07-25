@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-09 22:29 +1000
 guid: http://desparoz.micro.blog/2017/06/09/apples-upgrades-to.html
 ---
