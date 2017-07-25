@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-02 23:13 +1000
 guid: http://desparoz.micro.blog/2017/05/02/oceanic-has-long.html
 ---
