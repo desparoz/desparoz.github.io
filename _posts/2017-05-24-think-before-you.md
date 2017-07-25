@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-24 23:41 +1000
 guid: http://desparoz.micro.blog/2017/05/24/think-before-you.html
 ---
