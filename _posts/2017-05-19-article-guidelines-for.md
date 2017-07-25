@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-20 06:47 +1000
 guid: http://desparoz.micro.blog/2017/05/19/article-guidelines-for.html
 ---
