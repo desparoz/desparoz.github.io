@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-01 13:02 +1000
 guid: http://desparoz.micro.blog/2017/05/01/why-we-should.html
 ---
