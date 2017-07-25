@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-20 22:37 +1000
 guid: http://desparoz.micro.blog/2017/07/20/posting-to-blot.html
 ---
