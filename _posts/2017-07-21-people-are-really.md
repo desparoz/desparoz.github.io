@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-21 22:08 +1000
 guid: http://desparoz.micro.blog/2017/07/21/people-are-really.html
 ---
