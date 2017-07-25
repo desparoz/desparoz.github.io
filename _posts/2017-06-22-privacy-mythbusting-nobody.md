@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-22 22:21 +1000
 guid: http://desparoz.micro.blog/2017/06/22/privacy-mythbusting-nobody.html
 ---
