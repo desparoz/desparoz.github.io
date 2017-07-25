@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-01 05:49 +1000
 guid: http://desparoz.micro.blog/2017/05/31/divers-create-d.html
 ---
