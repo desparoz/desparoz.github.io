@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-20 05:46 +1000
 guid: http://desparoz.micro.blog/2017/05/19/few-australians-trust.html
 ---
