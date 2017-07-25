@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-23 21:52 +1000
 guid: http://desparoz.micro.blog/2017/07/23/my-friend-and.html
 ---
