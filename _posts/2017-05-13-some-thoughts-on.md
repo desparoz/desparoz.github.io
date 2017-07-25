@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-14 05:50 +1000
 guid: http://desparoz.micro.blog/2017/05/13/some-thoughts-on.html
 ---
