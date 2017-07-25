@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-11 16:03 +1000
 guid: http://desparoz.micro.blog/2017/05/11/saddened-to-hear.html
 ---
