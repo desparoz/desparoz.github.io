@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-26 22:56 +1000
 guid: http://desparoz.micro.blog/2017/05/26/an-interview-with.html
 ---
