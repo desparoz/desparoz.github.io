@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-30 21:08 +1000
 guid: http://desparoz.micro.blog/2017/05/30/colinwalker-a-bunch.html
 ---
