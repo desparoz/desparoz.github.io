@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-17 05:49 +1000
 guid: http://desparoz.micro.blog/2017/06/16/reasons-landscape-photographers.html
 ---
