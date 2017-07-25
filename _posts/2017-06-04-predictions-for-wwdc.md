@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-04 22:34 +1000
 guid: http://desparoz.micro.blog/2017/06/04/predictions-for-wwdc.html
 ---
