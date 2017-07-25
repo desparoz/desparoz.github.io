@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-05-01 14:01 +1000
 guid: http://desparoz.micro.blog/2017/05/01/adventures-in-micro.html
 ---
