@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-07-08 10:57 +1000
 guid: http://desparoz.micro.blog/2017/07/08/a-beautiful-morning.html
 ---
