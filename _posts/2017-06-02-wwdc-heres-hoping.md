@@ -1,5 +1,6 @@
 ---
 layout: post
+microblog: true
 date: 2017-06-03 06:55 +1000
 guid: http://desparoz.micro.blog/2017/06/02/wwdc-heres-hoping.html
 ---
