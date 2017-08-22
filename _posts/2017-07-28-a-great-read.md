@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-29 07:47 +1000
+date: 2017-07-29 00:47 +0300
 guid: http://desparoz.micro.blog/2017/07/28/a-great-read.html
 ---
 A great read on the IndieWeb.
