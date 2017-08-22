@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-08 22:30 +1000
+date: 2017-07-08 15:30 +0300
 guid: http://desparoz.micro.blog/2017/07/08/simple-sensible-and.html
 ---
 Simple, sensible and actionable advice... 
