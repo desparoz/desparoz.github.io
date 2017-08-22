@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-26 06:44 +1000
+date: 2017-07-25 23:44 +0300
 guid: http://desparoz.micro.blog/2017/07/25/this-mornings-photo.html
 ---
 This morning's photo outing 
