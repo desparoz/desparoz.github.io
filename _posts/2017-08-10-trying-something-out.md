@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-10 11:08 +1000
+date: 2017-08-10 04:08 +0300
 guid: http://desparoz.micro.blog/2017/08/10/trying-something-out.html
 ---
 Trying something out
