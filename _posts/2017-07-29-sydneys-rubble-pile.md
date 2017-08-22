@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-29 10:43 +1000
+date: 2017-07-29 03:43 +0300
 guid: http://desparoz.micro.blog/2017/07/29/sydneys-rubble-pile.html
 ---
 Sydney's rubble pile
