@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-22 05:03 +1000
+date: 2017-06-21 22:03 +0300
 guid: http://desparoz.micro.blog/2017/06/21/awesome-on-fronts.html
 ---
 Awesome on 2 fronts: iOS app going universal and micro.blog public launch approaching...
