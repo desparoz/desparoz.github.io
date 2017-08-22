@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-27 06:51 +1000
+date: 2017-07-26 23:51 +0300
 guid: http://desparoz.micro.blog/2017/07/26/this-mornings-sunrise.html
 ---
 This morning's sunrise photo time 
