@@ -1,10 +1,43 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+# - name: "[TITLE]"
+
 # - title: "[TITLE]"
 # - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
 # - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
 # - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
 # - markdown: kramdown
 # - user# - name: "[USERNAME]"
-# - permalink: /:year/:month/:slug/
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
 title: "Des Paroz"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/desparoz\">@desparoz on Micro.blog</a>."
