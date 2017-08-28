@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <p class="post-meta"><time class="dt-published" datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content e-content">
-  	<h2>
-	{{ content }}
-	</h2>
-  </article>
-
+<header class="masthead">
+  <h1 class="masthead-title--small">
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+  </h1>
+</header>
+<div class="content post h-entry">
+  <div class="post-date">
+    <time class="dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+  </div>
+  <div class="e-content">
+  {{ content }}
+  </div>
 </div>
