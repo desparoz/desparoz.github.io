@@ -1,0 +1,72 @@
+---
+layout: post
+title: "UwP Mag Issue 55 Now Available"
+microblog: false
+date: 2010-07-13 19:18 +0300
+guid: http://desparoz.micro.blog/2010/07/13/uwp-mag-issue.html
+---
+<p>Issue 55 of the premier online magazine just for Underwater Photographers - UwPMag - has been released, and is now available for free download at <a href="http://www.UwPmag.com">www.UwPmag.com</a>.</p>
+<p><span style="color: #333333; font-family: arial, sans-serif; font-size: small;"><span style="border-collapse: collapse; font-size: 13px;">UwP Mag issue 55 contains the following news and information for underwater photographers:</span></span></p>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">News, Travel &amp; Events</span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Cameras Underwater presents Martin Edge &amp; Alex Mustard On Underwater Photography, 6th November 2010, Imperial College, London.</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Manado's First Annual Fish &amp; Critter Hunt &nbsp;with Ned and Anna DeLoach 16th - 23rd October 2010</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">San Diego UnderSea Film Exhibition Call for entries &nbsp;by July 15th 2010</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Maria Munn Photography Workshop SY Mandarin Siren 9 - 19th January 2011</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Underwater Photo Tutorials, Online education for the Underwater Photographer Created by Jack and Sue Drafahl</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">North Sea Film Festival Studio/K in Amsterdam &nbsp;November 19 - 21</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Aaron Wong &nbsp;Photography Workshops SY Philippine Siren</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">INON UK Uw Photo Course</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Wetpixel Alaska Expedition June 11-23 2011 with Eric Cheng and Alex Mustard</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Manatees with Mauricio Handler January 31- Feb 5 &amp;- Feb 5-10, 2011</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Underwater Photography for Compact Camera Users by Maria Munn</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Thirteenth Beach: Diving adventures around the world by Wade Hughes</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">"Visions in the Sea" Summer Series Charlie Hood Workshop - Wildlife of Cornwall 3rd &amp;4th July 2010</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Wetpixel Night Safari Ambon 2010 With Eric Cheng and Tony Wu 7 - 16th Nov 2010</span></li>
+</ul>
+<h2><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">New Products</span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Zen PT-EP01 Dome</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">INON Snoot Set for S-2000</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Light &amp; Motion Sola 600</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">See Life and Hugyfot</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Subal ND3 housing for Nikon D3/D3x</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Ultralight TR-DM</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Amphibico housing for Sony HDR XR550V AND CX550V</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">SUBAL DP-100 'The Small One'</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">SharkTees</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Olympus PT-EP01</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Ultralight TR-LB</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Subal CD4 for Canon EOS 1D Mark IV</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Aquatica housing for the Canon 550 / T2i Rebel</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">INON M67 Lens Adapter Base for Fujifilm FinePix 80 &amp; 200</span></li>
+</ul>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">Equipment reviews</span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">The "Fibresnoot" by Phil Mercurio</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">The New Kid Named Canon G11 By Lawrence Alex Wu</span></li>
+</ul>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">Photo Competitions<br /></span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">5th ANNUAL OUR WORLD UNDERWATER INTERNATIONAL UNDERWATER PHOTO &amp; VIDEO COMPETITION</span></li>
+</ul>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">Techniques<br /></span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Trials and Tribulations..... of shooting a Dive Training reverse cover ByJoseph C. Dovala</span></li>
+</ul>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">Marine life<br /></span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">With the sperm whales of the mid-Atlantic Ridge</span> <span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">by Wade Hughes FRGS</span></li>
+</ul>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">Locations<br /></span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Raptures of the Emerald Deep. British Columbia's Diving Wonders by Jett Britnell</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Philippine Impressions By Eric Hanauer</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Rig Diving in Borneo by Mark Webster</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">Muck Diving in St. Kitts - By Jason Phillip</span></li>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">The 'golden islands' of the French Riviera by Jean-Philippe Borges</span></li>
+</ul>
+<h2><span style="font-family: arial, sans-serif; border-collapse: collapse; color: #333333; font-size: 13px;">Parting Shots<br /></span></h2>
+<ul>
+<li><span style="border-collapse: collapse; color: #333333; font-family: arial, sans-serif; font-size: 13px;">by Lena Holm and Joris van Alphen﻿</span></li>
+</ul>
