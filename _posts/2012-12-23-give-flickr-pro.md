@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Give Flickr Pro a Try (3 months free trial)"
+microblog: false
+date: 2012-12-23 15:25 +0300
+guid: http://desparoz.micro.blog/2012/12/23/give-flickr-pro.html
+---
+<p><a href="http://www.desparoz.me/wp-content/uploads/2012/12/Screen-Shot-2012-12-24-at-9.38.57-AM.png.57-AM.png?format=original"><img alt="" align="right" width="300" src="http://www.desparoz.me/wp-content/uploads/2012/12/Screen-Shot-2012-12-24-at-9.38.57-AM.png.57-AM.png?format=original" /></a>I’ve been a <a href="http://flickr.com/photos/bluebeyond">Flickr user</a> for many years, and was a Flickr Pro user for most of them (although I did let my Pro account lapse for a while).
+Flickr is a terrific image uploading, hosting, sharing service and community, and was for a long time the prime place for my <a href="http://djp.me/potd">Photos of the Day</a> (although I tried hosting that on <a href="http://desparoz.500px.com">500px</a> and iCloud for a while). I let my Flickr Pro account lapse because of the seeming lack of focus on Flickr by its parent Yahoo!, and the various issues that ensued from there. I also admit that Yahoo!’s subscription and payment system also made it difficult to actually sign up for the service!</p>
+<p>It really looked like <a href="http://gizmodo.com/5910223/how-yahoo-killed-flickr-and-lost-the-internet">Yahoo! had killed Flickr</a>. Thomas Hawk <a href="http://www.imore.com/get-months-flickr-pro-free">summed up the issues</a> nicely:</p>
+<blockquote><p>For me, most of my frustration was around three key issues.</p>
+<ol>
+<li>It felt like Flickr simply refused to innovate.</li>
+<li>It felt like the people who managed Flickr and worked for Flickr simply didn’t care about the users or the product.</li>
+<li>My data didn’t feel safe and I worried about the community management team irrevocably and permanently deleting accounts without warning to users.</li>
+</ol>
+</blockquote>
+<p>I reinstated my Flickr Pro a few months back, but to be honest I’ve not been too active there yet. But I can see that Flickr, under the direction of Yahoo!’s new CEO <a href="http://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Mayer</a> has been making a number of right steps, not the least of which is the <a href="http://thomashawk.com/2012/12/the-new-flickr-iphone-app-is-really-really-really-really-really-mind-blowingly-fantastic.html">widespread</a> <a href="http://www.imore.com/flickr-iphone-complete-redesigned-introduces-filters">applause</a> surrounding the release of <a href="http://blog.flickr.net/en/2012/12/12/our-latest-flickr-iphone-app/">Flickr’s new iPhone App</a>.</p>
+<p>The timing of the release of the <a href="https://itunes.apple.com/au/app/flickr/id328407587?mt=8">Flickr iPhone App</a> couldn’t have been better. Not only did it include <a href="http://thenextweb.com/apple/2012/12/12/yahoo-launches-instagram-inspired-flickr-iphone-app-update-adds-simple-sign-ins-16-filters-and-more/">Instagram inspired features like filters</a>, but it happened right before Instagram (a service I don’t use) <a href="http://bits.blogs.nytimes.com/2012/12/17/what-instagrams-new-terms-of-service-mean-for-you/">changed its terms of service</a> and <a href="http://www.wired.com/gadgetlab/2012/12/instagram-backtracks-to-2010-tos/">subsequently rolled back some controversial sections</a> after fierce <a href="http://thomashawk.com/2012/12/photographers-upset-by-instagrams-change-in-terms-of-service.html">user</a> <a href="http://techcrunch.com/2012/12/23/crunchweek-the-big-instagram-backlash-cash-for-facebook-messages-and-our-tech-holiday-hangovers/">backlash</a>.</p>
+<p>So Yahoo! has launched a one-two punch at Instagram by offering existing and new users <a href="http://www.flickr.com/holidaygift">three month free Flickr Pro usage</a> - either as a trial for new users, or as an automatic extension for existing users.</p>
+<p style="text-align: center;"><img height="279" alt="Flickr Pro Holiday Gift" width="600" class="aligncenter" src="http://www.desparoz.me/wp-content/uploads/2012/12/Screen-Shot-2012-12-24-at-9.15.40-AM.png.40-AM.png?format=original" /></p>
+<p>The response to the Flickr Pro 3 month offer has been <a href="http://thomashawk.com/2012/12/joy-to-the-world-flickr-offers-3-months-of-pro-for-free.html">spectacularly</a> <a href="http://www.imore.com/get-months-flickr-pro-free">enthusiastic</a>.</p>
+<p>I’ll be reinvigorating my Flickr usage, and heartily recommend that everyone try out Flickr Pro by taking advantage of the three month free offer. I’ve switched my <a href="http://djp.me/potd">Photo of the Day album</a> back to my Flickr Photostream. Now I just have get back to uploading some regular photos.</p>
