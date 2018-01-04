@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Reeder for iPhone Supports Fever"
+microblog: false
+date: 2012-06-14 16:00 +0300
+guid: http://desparoz.micro.blog/2012/06/14/reeder-for-iphone.html
+---
+<p><a href="http://www.desparoz.me/wp-content/uploads/2012/06/reeder1.jpg"><img title="reeder" height="300" alt="" width="200" class="alignright size-medium wp-image-275" src="http://www.desparoz.me/wp-content/uploads/2012/06/reeder1.jpg" /></a>I am addicted to RSS feeds. Well, <em>addicted</em> may overdo it a tad, but RSS is certainly the way I prefer to keep an eye on various websites, and thus to get my daily dose of technology, <a href="http://www.DivingIDC.com/">scuba</a> and <a href="http://www.kengokan.com/">martial arts</a> news.
+For a long time I was a committed Google Reader user, which served well the back end management of my list of RSS feeds, and the syncing of then. For the front end, I loved the <a href="http://reederapp.com/">Reeder app</a> for <a href="http://reederapp.com/iphone/">iPhone</a>, iPad and Mac OSX.</p>
+<p>Reeder is a simple but powerful app that syncs with Google Reader, providing a pleasant UI and easy interaction with services like <a href="http://www.instapaper.com/">Instapaper</a>, Twitter, Readability, Pocket, Evernote and others. I much prefer to browse my RSS feeds in Reeder than in Google.</p>
+<p>But, <a href="http://www.macsparky.com/blog/2012/2/15/fever-and-reeder.html">Google has been getting increasingly creepy</a> for me (among many others), and have actually crossed the <a href="http://blogs.telegraph.co.uk/technology/shanerichmond/100005766/eric-schmidt-getting-close-to-the-creepy-line/">“creepy line”</a>. I’ve decided to spread my data out among various providers (including Google, Apple and others), and one thing I did was to move my RSS feeds off Google Reader and onto <a href="http://feedafever.com">Fever</a>, a self hosted RSS engine. I’ve been loving it, and enjoying the fact that my data is now under my own control. Google now has less of a complete picture of me.</p>
+<p>Fever works beautifully and because its web based it syncs seamlessly across devices. It has built connectivity to some of the services like <a href="http://www.instapaper.com/">Instapaper</a>. The only thing I’ve been missing is the dedicated apps for iPhone and iPad, as I generally prefer apps over browser on these devices.</p>
+<p>Granted there is the Ashes app for iPad. I found that it worked clunkily for a few days and now just crashes every time (literally <em>every</em> time) I try to do something radical, such as read my feeds. Waste of time and money!</p>
+<p>I was pretty excited today to see the launch of <a href="http://reederapp.com/iphone/">Reeder 3.0 for iPhone</a>, which supports reading Fever, Readability and Google Reader feeds. So far its working beautifully, bringing back the joy of a dedicated iPhone App for my RSS feeds. The seamless linking to Instapaper, Email, Evernote, etc is a joy, and I find that I can browse feeds much faster in this app than on a browser interface.</p>
+<p>I’m looking forward to an iPad version too, but in the interim I will be happy to use the iPhone version at 2x on my iPad.</p>
+<p>If you’re into RSS and use an iPhone, get <a href="http://reederapp.com/">Reeder</a>. And if you want Google to have an incomplete picture of you, consider moving your feeds onto Fever.</p>
