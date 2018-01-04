@@ -2,15 +2,7 @@
 #   K i k o   #
 # # # # # # # #
 
-# Basic
-# - name: "[TITLE]"
-
-# - title: "[TITLE]"
-# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
-# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
-# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
 # - markdown: kramdown
-# - user# - name: "[USERNAME]"
 
 # Navigation
 nav:
@@ -43,7 +35,7 @@ tagline: ""
 description: "Follow <a href=\"https://micro.blog/desparoz\">@desparoz on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/desparoz\">@desparoz on Micro.blog</a>."
 baseurl: ""
-url: "http://desparoz.me"
+url: "https://desparoz.me"
 markdown: "kramdown"
 username: "desparoz"
 permalink: "/:year/:month/:day/:title.html"
@@ -51,7 +43,7 @@ relative_permalinks: false
 author: "Des Paroz"
 name: "Des Paroz"
 gravatar_hash: "ff81688107f77a63a34f68e536aeca77"
-avatar: "https://www.gravatar.com/avatar/ff81688107f77a63a34f68e536aeca77?s=160"
+avatar: "https://micro.blog/desparoz/avatar.jpg"
 full_name: "Des Paroz"
 bio: ""
 twitter_username: "desparoz"
@@ -59,4 +51,5 @@ github_username: "desparoz"
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "Turkey"
+timezone: "Indian/Mayotte"
+site_id: "334"
